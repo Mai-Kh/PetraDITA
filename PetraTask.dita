@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_orl_sy5_rbb">
+    <title>How to Get to Petra</title>
+    <shortdesc>directions for visiting Petra</shortdesc>
+    <taskbody>
+        <context>
+            <p>You ca get to Petra very easily from Amman, the capital of Jordan. The total trip
+                time is estimated as 3 hours</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>get some sunscreen</cmd>
+            </step>
+            <step>
+                <cmd>get plenty of water</cmd>
+            </step>
+            <step>
+                <cmd>pack some snacks</cmd>
+            </step>
+            <step>
+                <cmd>wear comfortble light clothes</cmd>
+            </step>
+            <step>
+                <cmd>wear a hat</cmd>
+            </step>
+            <step>
+                <cmd>Take the shuttle from Amman to Petra</cmd>
+            </step>
+            <step>
+                <cmd>Enjoy your trip</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

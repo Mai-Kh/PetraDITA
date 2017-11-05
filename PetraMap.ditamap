@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Accomplishing a touristic visit to Petra</title>
+    <topicset href="Petra.dita" id="1"/>
+    <topicset href="PetraConcept.dita" id="2"/>
+    <topicset href="PetraRef.dita" id="3"/>
+    <topicset href="PetraTask.dita" id="4"/>
+</map>

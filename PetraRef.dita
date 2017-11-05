@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ibn_ccv_rbb">
+    <title>Planning a touristic trip to Petra</title>
+    <shortdesc>How to plan your trip</shortdesc>
+    <refbody>
+        <simpletable frame="all" relcolwidth="1* 1*" id="simpletable_bvy_mxz_rbb">
+            <sthead>
+                <stentry>Step</stentry>
+                <stentry>Cost</stentry>
+            </sthead>
+            <strow>
+                <stentry>Book hotel</stentry>
+                <stentry>$ 200 per night</stentry>
+            </strow>
+            <strow>
+                <stentry>Book Bus Trip</stentry>
+                <stentry>$ 30 per passenger</stentry>
+            </strow>
+            <strow>
+                <stentry>Take taxi to bus</stentry>
+                <stentry>$ 7 </stentry>
+            </strow>
+            <strow>
+                <stentry>Breakfast during the trip</stentry>
+                <stentry>$ 25</stentry>
+            </strow>
+            <strow>
+                <stentry>Lunch in Petra</stentry>
+                <stentry>$ 40</stentry>
+            </strow>
+        </simpletable>
+    </refbody>
+</reference>

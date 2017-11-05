@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="Petra">
+    <title>Petra</title>
+    <body>
+        <p>Petra is a historic city that was carved in red rose stone by the Nabatians.</p>
+        <p>
+            <fig id="fig_xlf_gy5_rbb">
+                <title>The Treasury</title>
+                <image href="47-Petra-Jordan.jpg" scale="30" id="image_ylf_gy5_rbb">
+                    <alt>Approaching the treasury frm the Siq</alt>
+                </image>
+            </fig>
+        </p>
+    </body>
+</topic>
